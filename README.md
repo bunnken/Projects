@@ -1,2 +1,1 @@
-# Projects
-Trying to complete all the projects listed on https://github.com/karan/Projects in different languages
+Projects taken from [here](https://github.com/karan/Projects)
